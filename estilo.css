@@ -1,19 +1,20 @@
-body{
-    
+body{background-color: rgb(216, 199, 145);
+
 }
 header{
     background-color: rgb(247, 220, 188);
 }
 h1{
-    font-size: 80px
+    font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 nav{
-    background-color: antiquewhite;
+    background-color: rgb(230, 201, 163);
 }
 nav a{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: ;
+    font-size: 20px;
+    color: #463723;
 }
 h3{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -22,8 +23,29 @@ h3{
 p{
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: large;
+    color: #463723;
 }
 img{
     width:auto;
     height: 300px
+}
+ol{
+color: rgb(59, 56, 33);
+
+}
+ul{
+    color: rgb(56, 52, 33);
+}
+table{
+    width: 60%;
+    height: auto;
+    background-color: rgb(255, 225, 127);
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+    color: #463723;
+}
+h5{
+    color: #463723;
 }
